@@ -1,0 +1,9 @@
+{
+	"user": "YSI-Game",
+	"repo": "y_vehicledata",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+	]
+}
+
